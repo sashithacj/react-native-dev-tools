@@ -135,7 +135,6 @@ function initiateApplicationWindow () {
       tray = new Tray(thumbnail);
       updateContextMenu();
     });
-  getEmulatorNames().then(emulatorNames => console.log(emulatorNames));
 }
 
 app.whenReady().then(initiateApplicationWindow);
