@@ -3,7 +3,7 @@
   "productName": "React Native Dev Tools By Sashitha",
   "description": "Robust and comprehensive collection of development tools tailored specifically for React Native development. It includes various scripts to streamline app creation, testing, debugging, and deployment processes, alongside functionalities for easily running and managing emulators. Ideal for developers looking to enhance their productivity and code quality when building React Native applications.",
   "keywords": [],
-  "main": "./dist/main.1db8a8eae91d38f4483e.js",
+  "main": "./dist/main.a46023f2b71a3d9a7086.js",
   "version": "1.0.0",
   "author": "Sashitha Chamara",
   "scripts": {
@@ -52,7 +52,8 @@
         "icon": "./dist/assets/phone.icns",
         "extraResources": [
           "./dist/assets",
-          "./dist/main.1db8a8eae91d38f4483e.js"
+          "./dist/main.a46023f2b71a3d9a7086.js",
+          "./dist/main.a46023f2b71a3d9a7086.js.LICENSE.txt"
         ],
         "ignore": [
           "^/src",
